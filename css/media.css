@@ -1,0 +1,29 @@
+@media only screen and (max-width: 767px) {
+
+	/*------- SVG Animation Section Starts -------*/
+
+.banner-heading { height: 10vw; }
+
+	/*------- SVG Animation Section Ends -------*/
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+	/*------- SVG Animation Section Starts -------*/
+
+.banner-heading { height: 10vw; }
+
+	/*------- SVG Animation Section Ends -------*/
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+	/*------- SVG Animation Section Starts -------*/
+
+.banner-heading { height: 10vw; }
+
+	/*------- SVG Animation Section Ends -------*/
+
+}
