@@ -1,6 +1,6 @@
 /*------- Common CSS Starts -------*/
 
-body { background: url("../images/banner.jpg") no-repeat top/cover; margin: 0; padding: 0; }
+body { background: url("../images/banner.jpg") no-repeat top/cover; height: 100vh; margin: 0; padding: 0; }
 
 /*------- Common CSS Ends -------*/
 
